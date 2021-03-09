@@ -1,0 +1,13 @@
+.header-title{
+    background-color: tomato;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+.country-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+.main{
+    background-color:black;
+}
